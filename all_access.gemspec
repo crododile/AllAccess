@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = AllAccess::VERSION
   spec.authors       = ["Coburn Berry"]
   spec.email         = ["coburn.d.berry@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{generate accessors for intance variables in initializer}
+  spec.description   = %q{Your class is really a bag of attributes}
   spec.homepage      = ""
   spec.license       = "MIT"
 
