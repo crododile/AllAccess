@@ -43,6 +43,7 @@ accessible.test = "bacon"
 accessible.test # "bacon"
 ```
 
+NB. only works on attributes initialized in initializer
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/all_access/fork )
