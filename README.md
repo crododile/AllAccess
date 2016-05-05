@@ -1,6 +1,7 @@
 # AllAccess
 
 This gem writes attr accessors for all instance variables set in your class's initializer.
+Blog post [here](http://crododile.github.io/bloog/ruby/gems/object-oriented-programming/2015/06/27/all_access_gem.html)
 
 ## Installation
 
