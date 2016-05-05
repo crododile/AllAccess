@@ -1,6 +1,6 @@
 # AllAccess
 
-TODO: Write a gem description
+This gem writes attr accessors for all instance variables set in your classes initializer.
 
 ## Installation
 
